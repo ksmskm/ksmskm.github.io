@@ -1,0 +1,11 @@
+{
+  "name": "hydrogen",
+  "version": "1.0.0",
+  "description": "TITLE:  Hydrogen - Responsive Free HTML5 template",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
