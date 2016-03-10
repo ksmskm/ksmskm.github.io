@@ -1,4 +1,4 @@
-test
+
 TITLE: 
 Hydrogen - Responsive Free HTML5 template
 
